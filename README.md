@@ -1,4 +1,6 @@
-## Harp Environment Service
+## Open Source Incident Management system - Harp Environment Service
+
+### Full info about Project - https://github.com/harpia-io/harpia
 
 ### Intro
 The backend service of Harp Platform and works as Environment entrypoint.
